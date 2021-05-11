@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/react": "^17.0.5",
+    "chart.js": "2.9.x",
     "next": "10.x",
     "react": "17.x",
-    "react-dom": "17.x"
+    "react-dom": "17.x",
+    "typescript": "^4.2.4"
   }
 }
